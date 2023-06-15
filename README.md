@@ -1,6 +1,6 @@
 # Criando Transações, Executando Backup e Recovery de Banco de Dados
 
-## ARTE 1 – TRANSAÇÕES 
+## 
 
 **Objetivo:**  
 
